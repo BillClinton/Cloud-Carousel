@@ -19,7 +19,7 @@ or
 ```php tools\spark install cloud-carousel``` (Windows)
 
 
-#### Copy Resources Directory
+### Copy Resources Directory
 Copy the resources directory to your application directory so your application's
 directory structure looks like this: 
 ```
