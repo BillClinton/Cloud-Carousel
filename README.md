@@ -1,14 +1,14 @@
 # Cloud-Carousel
 
-A simple wrapper for the Cloud Carousel, a 3d Carousel in JavaScript, by Professor Cloud. http://www.professorcloud.com 
+A simple wrapper for the Cloud Carousel, a 3d Carousel in JavaScript, by Professor Cloud. [http://www.professorcloud.com](http://www.professorcloud.com)
 
-To see a demonstration, go to [demo link](http://appunto.net/demo/cloud-carousel/)
+To see a demonstration, go to [http://appunto.net/demo/cloud-carousel/](http://appunto.net/demo/cloud-carousel/)
 
 ## Installing
 
 ### Get The Spark
 
-For information on installing sparks, go here: http://getsparks.org/install
+For information on installing sparks, go here: [http://getsparks.org/install](http://getsparks.org/install)
 
 If you have the Spark Manager installed, type:
 
