@@ -32,8 +32,8 @@ directory structure looks like this:
 The files in the resources directory contain required JavaScript and CSS files.  If you put them somewhere else, 
 make sure to update the cloud-carousel.php config file.
 
-By default, this spark will look for your image files in the /resources/images directory.  
-Update the cloud-carousel.php config file with the actual location of your images.
+By default, this spark will look for your image files in the /resources/images directory.  Update the 
+cloud-carousel.php config file with the actual location of your images.
 
 ## To Do
 
