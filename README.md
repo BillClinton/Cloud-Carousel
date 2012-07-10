@@ -28,6 +28,7 @@ directory structure looks like this:
    |-resources
      index.php
 ```
+
 The files in the resources directory contain required javacript and css files.  If you put them somewhere else, 
 make sure to update the cloud-carousel.php config file.
 
