@@ -2,6 +2,8 @@
 
 A simple wrapper for the Cloud Carousel, a 3d Carousel in JavaScript, by Professor Cloud. http://www.professorcloud.com 
 
+To see a demonstration, go to http://appunto.net/demo/cloud-carousel/
+
 ## Installing
 
 ### Get The Spark
