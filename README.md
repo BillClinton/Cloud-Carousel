@@ -32,3 +32,10 @@ directory structure looks like this:
 The files in the resources directory contain required javacript and css files.  If you put them somewhere else, 
 make sure to update the cloud-carousel.php config file.
 
+By default, this spark will look for you image filed in the /resources/images directory.  
+Update the cloud-carousel.php config file with the actual location of your images.
+
+## To Do
+
+Currently, the controls and the alt and title boxes are not contained within the carousel div.  
+I plan on adding an option that will allow the placement of these elements within the carousel div.
